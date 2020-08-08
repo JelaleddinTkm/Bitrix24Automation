@@ -11,8 +11,8 @@ import org.junit.runner.RunWith;
         },
         features = "src/test/resources/features",
         glue = "com/bitrix24/step_definitions",
-        tags = "@fileUploading",
-        dryRun = true
+        // tags = "@fileUploading",
+         dryRun = false
  )
 
 

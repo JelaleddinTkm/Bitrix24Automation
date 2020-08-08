@@ -1,0 +1,64 @@
+2020-08-08 07:59:17 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 07:59:17 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 07:59:17 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 07:59:17 INFO  Hooks:36 - ::: Ending automation :::
+2020-08-08 08:50:45 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 08:50:45 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 08:50:45 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 08:50:45 INFO  Driver:39 - Browser :: chrome
+2020-08-08 08:51:03 INFO  LoginPage:46 - Login as hr
+2020-08-08 08:51:03 INFO  Hooks:36 - ::: Ending automation :::
+2020-08-08 13:18:21 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 13:18:22 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 13:18:22 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 13:18:22 INFO  Driver:39 - Browser :: chrome
+2020-08-08 13:18:23 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 13:18:23 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/bayramgeldipirjanov/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 13:18:34 INFO  LoginPage:55 - Login as hr
+2020-08-08 13:18:44 INFO  Hooks:31 - Taking a screenshot
+2020-08-08 13:18:45 INFO  Hooks:37 - ::: Ending automation :::
+2020-08-08 13:21:01 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 13:21:01 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 13:21:01 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 13:21:01 INFO  Driver:39 - Browser :: chrome
+2020-08-08 13:21:02 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 13:21:02 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/bayramgeldipirjanov/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 13:21:14 INFO  LoginPage:55 - Login as hr
+2020-08-08 13:21:24 INFO  Hooks:31 - Taking a screenshot
+2020-08-08 13:21:25 INFO  Hooks:37 - ::: Ending automation :::
+2020-08-08 13:24:23 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 13:24:23 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 13:24:23 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 13:24:23 INFO  Driver:39 - Browser :: chrome
+2020-08-08 13:24:24 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 13:24:24 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/bayramgeldipirjanov/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 13:24:34 INFO  LoginPage:55 - Login as hr
+2020-08-08 13:24:44 INFO  Hooks:31 - Taking a screenshot
+2020-08-08 13:24:45 INFO  Hooks:37 - ::: Ending automation :::
+2020-08-08 13:36:18 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 13:36:18 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 13:36:18 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 13:36:18 INFO  Driver:39 - Browser :: chrome
+2020-08-08 13:36:19 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 13:36:19 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/bayramgeldipirjanov/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 13:36:30 INFO  LoginPage:55 - Login as hr
+2020-08-08 13:36:40 INFO  Hooks:31 - Taking a screenshot
+2020-08-08 13:36:41 INFO  Hooks:37 - ::: Ending automation :::
+2020-08-08 13:39:44 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 13:39:44 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 13:39:44 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 13:39:44 INFO  Driver:39 - Browser :: chrome
+2020-08-08 13:39:45 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 13:39:45 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/bayramgeldipirjanov/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 13:39:54 INFO  LoginPage:55 - Login as hr
+2020-08-08 13:40:04 INFO  Hooks:31 - Taking a screenshot
+2020-08-08 13:40:05 INFO  Hooks:37 - ::: Ending automation :::
+2020-08-08 13:48:56 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-08 13:48:56 INFO  Hooks:21 - Browser type: chrome
+2020-08-08 13:48:56 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com/
+2020-08-08 13:48:56 INFO  Driver:39 - Browser :: chrome
+2020-08-08 13:48:57 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 13:48:57 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/bayramgeldipirjanov/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 13:49:05 INFO  LoginPage:55 - Login as hr
+2020-08-08 13:49:35 INFO  Hooks:31 - Taking a screenshot
+2020-08-08 13:49:36 INFO  Hooks:37 - ::: Ending automation :::
